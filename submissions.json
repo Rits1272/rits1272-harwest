@@ -747,6 +747,22 @@
     ],
     "timestamp": "Dec/21/2020 18:36"
   },
+  "CF95434882": {
+    "contest_id": 1213,
+    "language": "GNU C++14",
+    "path": "codeforces/1213/D1.cpp",
+    "problem_index": "D1",
+    "problem_name": "Equalizing by Division (easy version)",
+    "problem_url": "https://codeforces.com/contest/1213/problem/D1",
+    "submission_id": "CF95434882",
+    "submission_url": "https://codeforces.com/contest/1213/submission/95434882",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Oct/13/2020 19:55"
+  },
   "CF95441286": {
     "contest_id": 1407,
     "language": "GNU C++14",
