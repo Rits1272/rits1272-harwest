@@ -747,6 +747,23 @@
     ],
     "timestamp": "Dec/21/2020 18:36"
   },
+  "CF95853411": {
+    "contest_id": 1428,
+    "language": "GNU C++14",
+    "path": "codeforces/1428/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Bouncing Boomerangs",
+    "problem_url": "https://codeforces.com/contest/1428/problem/D",
+    "submission_id": "CF95853411",
+    "submission_url": "https://codeforces.com/contest/1428/submission/95853411",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "Oct/18/2020 13:59"
+  },
   "CF95863875": {
     "contest_id": 1421,
     "language": "GNU C++14",
