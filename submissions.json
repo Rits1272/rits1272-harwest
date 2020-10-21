@@ -747,6 +747,23 @@
     ],
     "timestamp": "Dec/21/2020 18:36"
   },
+  "CF96275199": {
+    "contest_id": 1175,
+    "language": "GNU C++14",
+    "path": "codeforces/1175/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Catch Overflow!",
+    "problem_url": "https://codeforces.com/contest/1175/problem/B",
+    "submission_id": "CF96275199",
+    "submission_url": "https://codeforces.com/contest/1175/submission/96275199",
+    "tags": [
+      "data structures",
+      "expression parsing",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Oct/21/2020 19:28"
+  },
   "CF96286945": {
     "contest_id": 1151,
     "language": "GNU C++14",
