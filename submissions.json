@@ -747,6 +747,23 @@
     ],
     "timestamp": "Dec/21/2020 18:36"
   },
+  "CF96375187": {
+    "contest_id": 704,
+    "language": "GNU C++14",
+    "path": "codeforces/704/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Thor",
+    "problem_url": "https://codeforces.com/contest/704/problem/A",
+    "submission_id": "CF96375187",
+    "submission_url": "https://codeforces.com/contest/704/submission/96375187",
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Oct/22/2020 20:25"
+  },
   "CF96380093": {
     "contest_id": 1196,
     "language": "GNU C++14",
