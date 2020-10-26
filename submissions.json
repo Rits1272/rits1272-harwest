@@ -747,6 +747,23 @@
     ],
     "timestamp": "Dec/21/2020 18:36"
   },
+  "CF96756015": {
+    "contest_id": 603,
+    "language": "GNU C++14",
+    "path": "codeforces/603/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Alternative Thinking",
+    "problem_url": "https://codeforces.com/contest/603/problem/A",
+    "submission_id": "CF96756015",
+    "submission_url": "https://codeforces.com/contest/603/submission/96756015",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Oct/26/2020 13:18"
+  },
   "CF96760905": {
     "contest_id": 1151,
     "language": "GNU C++14",
