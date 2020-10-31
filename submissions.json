@@ -747,6 +747,22 @@
     ],
     "timestamp": "Dec/21/2020 18:36"
   },
+  "CF97226399": {
+    "contest_id": 1300,
+    "language": "GNU C++14",
+    "path": "codeforces/1300/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Non-zero",
+    "problem_url": "https://codeforces.com/contest/1300/problem/A",
+    "submission_id": "CF97226399",
+    "submission_url": "https://codeforces.com/contest/1300/submission/97226399",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/31/2020 13:09"
+  },
   "CF97227124": {
     "contest_id": 1300,
     "language": "GNU C++14",
