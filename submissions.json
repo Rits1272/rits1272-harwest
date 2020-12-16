@@ -1,4 +1,20 @@
 {
+  "CF101441299": {
+    "contest_id": 1324,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1324/E.cpp",
+    "problem_index": "E",
+    "problem_name": "Sleeping Schedule",
+    "problem_url": "https://codeforces.com/contest/1324/problem/E",
+    "submission_id": "CF101441299",
+    "submission_url": "https://codeforces.com/contest/1324/submission/101441299",
+    "tags": [
+      "dp",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Dec/16/2020 21:00"
+  },
   "CF101443584": {
     "contest_id": 493,
     "language": "GNU C++17 (64)",
