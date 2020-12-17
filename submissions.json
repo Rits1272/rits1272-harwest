@@ -1,4 +1,20 @@
 {
+  "CF101501914": {
+    "contest_id": 1295,
+    "language": "GNU C++14",
+    "path": "codeforces/1295/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Infinite Prefixes",
+    "problem_url": "https://codeforces.com/contest/1295/problem/B",
+    "submission_id": "CF101501914",
+    "submission_url": "https://codeforces.com/contest/1295/submission/101501914",
+    "tags": [
+      "math",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "Dec/17/2020 17:54"
+  },
   "CF101508614": {
     "contest_id": 567,
     "language": "GNU C++14",
